@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi" severity="ignore">
+        <ignore path="src/com/example/example/Ball.java" />
+        <ignore path="src/com/example/example/SoccerField.java" />
+        <ignore path="src/com/example/example/Team.java" />
+    </issue>
+</lint>

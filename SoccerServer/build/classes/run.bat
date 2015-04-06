@@ -1,0 +1,1 @@
+java -cp . soccerserver2.SoccerServer
